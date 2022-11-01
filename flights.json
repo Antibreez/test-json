@@ -1,0 +1,222 @@
+[
+ {
+  "dateFlight": "2021-03-19T06:33:26.309Z",
+  "flight": "BC-4292",
+  "pinType": "C-378-271",
+  "pin": "DDXAB",
+  "timeFlight": 12758,
+  "timeBlock": 13217,
+  "timeNight": 6124,
+  "timeBiologicalNight": 13893,
+  "timeWork": 16866,
+  "type": 1,
+  "takeoff": {
+   "name": "Нарьян-Мар",
+   "lat": 67.634059,
+   "long": 53.086047
+  },
+  "landing": {
+   "name": "Нижневартовск",
+   "lat": 60.958974,
+   "long": 76.494213
+  }
+ },
+ {
+  "dateFlight": "2021-12-06T05:57:24.584Z",
+  "flight": "BC-8738",
+  "pinType": "C-205-164",
+  "pin": "XAABC",
+  "timeFlight": 15003,
+  "timeBlock": 15573,
+  "timeNight": 6301,
+  "timeBiologicalNight": 16458,
+  "timeWork": 23450,
+  "type": 0,
+  "takeoff": {
+   "name": "Сыктывкар",
+   "lat": 61.668797,
+   "long": 50.836497
+  },
+  "landing": {
+   "name": "Улан-Удэ(Байкал)",
+   "lat": 56.833139,
+   "long": 53.451249
+  }
+ },
+ {
+  "dateFlight": "2021-10-02T01:04:14.112Z",
+  "flight": "CD-7641",
+  "pinType": "C-546-729",
+  "pin": "XXBCD",
+  "timeFlight": 13869,
+  "timeBlock": 14299,
+  "timeNight": 7489,
+  "timeBiologicalNight": 14965,
+  "timeWork": 19722,
+  "type": 0,
+  "takeoff": {
+   "name": "Нижневартовск",
+   "lat": 60.958974,
+   "long": 76.494213
+  },
+  "landing": {
+   "name": "Улан-Удэ(Байкал)",
+   "lat": 51.816899,
+   "long": 107.444211
+  }
+ },
+ {
+  "dateFlight": "2021-06-04T02:19:00.512Z",
+  "flight": "CD-2703",
+  "pinType": "A-133-236",
+  "pin": "AAXDB",
+  "timeFlight": 32969,
+  "timeBlock": 34288,
+  "timeNight": 17144,
+  "timeBiologicalNight": 36035,
+  "timeWork": 48992,
+  "type": 1,
+  "takeoff": {
+   "name": "Нижневартовск",
+   "lat": 60.958974,
+   "long": 76.494213
+  },
+  "landing": {
+   "name": "Улан-Удэ(Байкал)",
+   "lat": 56.833139,
+   "long": 53.451249
+  }
+ },
+ {
+  "dateFlight": "2021-01-17T04:42:20.563Z",
+  "flight": "BC-1260",
+  "pinType": "A-411-531",
+  "pin": "XXBCD",
+  "timeFlight": 31448,
+  "timeBlock": 32580,
+  "timeNight": 12894,
+  "timeBiologicalNight": 33901,
+  "timeWork": 47424,
+  "type": 0,
+  "takeoff": {
+   "name": "Нижневартовск",
+   "lat": 60.958974,
+   "long": 76.494213
+  },
+  "landing": {
+   "name": "Улан-Удэ(Байкал)",
+   "lat": 56.833139,
+   "long": 53.451249
+  }
+ },
+ {
+  "dateFlight": "2021-08-02T18:38:47.154Z",
+  "flight": "BC-2585",
+  "pinType": "A-499-421",
+  "pin": "XXXAK",
+  "timeFlight": 30270,
+  "timeBlock": 31239,
+  "timeNight": 13622,
+  "timeBiologicalNight": 32268,
+  "timeWork": 46071,
+  "type": 0,
+  "takeoff": {
+   "name": "Нарьян-Мар",
+   "lat": 67.634059,
+   "long": 53.086047
+  },
+  "landing": {
+   "name": "Сыктывкар",
+   "lat": 61.668797,
+   "long": 50.836497
+  }
+ },
+ {
+  "dateFlight": "2021-03-26T06:29:19.038Z",
+  "flight": "AB-6854",
+  "pinType": "C-618-768",
+  "pin": "AAXDB",
+  "timeFlight": 18710,
+  "timeBlock": 19309,
+  "timeNight": 8045,
+  "timeBiologicalNight": 20057,
+  "timeWork": 28813,
+  "type": 1,
+  "takeoff": {
+   "name": "Сыктывкар",
+   "lat": 61.668797,
+   "long": 50.836497
+  },
+  "landing": {
+   "name": "Сыктывкар",
+   "lat": 61.668797,
+   "long": 50.836497
+  }
+ },
+ {
+  "dateFlight": "2021-11-22T08:34:58.762Z",
+  "flight": "CD-3700",
+  "pinType": "C-564-947",
+  "pin": "XXXAK",
+  "timeFlight": 10201,
+  "timeBlock": 10568,
+  "timeNight": 4386,
+  "timeBiologicalNight": 10833,
+  "timeWork": 15495,
+  "type": 1,
+  "takeoff": {
+   "name": "Улан-Удэ(Байкал)",
+   "lat": 51.816899,
+   "long": 107.444211
+  },
+  "landing": {
+   "name": "Салехард",
+   "lat": 66.595541,
+   "long": 66.585813
+  }
+ },
+ {
+  "dateFlight": "2021-02-28T13:02:05.395Z",
+  "flight": "AB-1751",
+  "pinType": "A-190-211",
+  "pin": "XXAAB",
+  "timeFlight": 29886,
+  "timeBlock": 31022,
+  "timeNight": 14644,
+  "timeBiologicalNight": 32426,
+  "timeWork": 38941,
+  "type": 0,
+  "takeoff": {
+   "name": "Салехард",
+   "lat": 66.595541,
+   "long": 66.585813
+  },
+  "landing": {
+   "name": "Нарьян-Мар",
+   "lat": 67.634059,
+   "long": 53.086047
+  }
+ },
+ {
+  "dateFlight": "2021-12-02T19:15:43.092Z",
+  "flight": "AB-6279",
+  "pinType": "A-955-504",
+  "pin": "XAABC",
+  "timeFlight": 15519,
+  "timeBlock": 16062,
+  "timeNight": 8380,
+  "timeBiologicalNight": 16667,
+  "timeWork": 20392,
+  "type": 1,
+  "takeoff": {
+   "name": "Нарьян-Мар",
+   "lat": 67.634059,
+   "long": 53.086047
+  },
+  "landing": {
+   "name": "Нижневартовск",
+   "lat": 60.958974,
+   "long": 76.494213
+  }
+ }
+]
